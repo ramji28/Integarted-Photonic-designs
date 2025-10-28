@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But keep Jupyter notebooks and README
+!*.ipynb
+!README.md
+!.gitignore
