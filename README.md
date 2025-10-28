@@ -1,8 +1,8 @@
-# Integarted Photonic Design Portfolio
+# Integrated Photonic Design Portfolio
 
 This repository contains Jupyter notebooks showcasing my work in **integrated photonics design**.
 
-Please vist my website www.rpraksh.com for integartive post with explantion
+Please visit my website www.rpraksh.com for interactive post with explanation
 
 ## Contents
 ## 🧩 Passive Components
